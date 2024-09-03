@@ -1,0 +1,199 @@
+NodeID,Label,Type
+1,RigVeda,ScriptureName
+2,"Sakala Shakha, Baskala Shakha",Recension
+3,10.90.4,MantraNumber
+4,8.4.17.4,AlternateMantraNumber
+5,त्रि॒पादू॒र्ध्व उदै॒त्पुरु॑षः॒ पादो॑ऽस्ये॒हाभ॑व॒त्पुनः॑ । ततो॒ विष्व॒ङ्व्य॑क्रामत्साशनानश॒ने अ॒भि ॥,VedaMantra
+6,tri̱pādū̱rdhva udai̱tpuru̍ṣa̱ḥ pādo̎sye̱hābha̍va̱tpuna̍ḥ . tato̱ viṣva̱ṅvya̍krāmatsāśanānaśa̱ne a̱bhi ..,VedaMantraRomanIAST
+7,त्रि॒ऽपात् । ऊ॒र्ध्व । उत् । ऐ॒त् । पुरु॑षः । पादः॑ । अ॒स्य॒ । इ॒ह । अ॒भ॒व॒त् । पुन॒रिति॑ । ततः॑ । विष्व॑ङ् । वि । अ॒क्रा॒म॒त् । सा॒श॒ना॒न॒श॒ने इति॑ । अ॒भि ॥,Padapatha
+8,पुरुषः,Devata
+9,puruṣaḥ,DevataRomanIAST
+10,नारायणः,Rishi
+11,nārāyaṇaḥ,RishiRomanIAST
+12,अनुष्टुप्,Chandas
+13,anuṣṭup,ChandasRomanIAST
+14,Purusha Sukta,Links
+15,SamaVeda,ScriptureName
+16,"Kauthuma Shakha, Ranayaniya Shakha",Recension
+17,1.63.4,MantraNumber
+18,6.3.4.4 ,AlternateMantraNumber
+19,त्रि꣣पा꣢दू꣣र्ध्व꣢꣫ उदै꣣त्पु꣡रु꣢षः꣣ पादो꣢ऽस्ये꣣हा꣡भ꣢व꣣त्पु꣡नः꣢ । त꣢था꣣ वि꣢ष्व꣣꣬ङ् व्य꣢꣯क्रामदशनानश꣣ने꣢ अ꣣भि꣢ ॥६१८॥,VedaMantra
+20,tri꣣pā꣢dū꣣rdhva꣢꣫ udai꣣tpu꣡ru꣢ṣaḥ꣣ pādo꣢'sye꣣hā꣡bha꣢va꣣tpu꣡naḥ꣢ . ta꣢thā꣣ vi꣢ṣva꣣꣬ṅ vya꣢꣯krāmadaśanānaśa꣣ne꣢ a꣣bhi꣢ ..618..,VedaMantraRomanIAST
+21,,Padapatha
+22,वामदेवो गौतमः,Rishi
+23,vāmadevo gautamaḥ,RishiRomanIAST
+24,ShuklaYajurVeda,ScriptureName
+25,"Madhyandina Shakha, Kanva Shakha",Recension
+26,31.4,MantraNumber
+27,त्रि॒पादू॒र्ध्व उदै॒त्पुरु॑षः॒ पादो॑ऽस्ये॒हाभ॑व॒त् पुनः॑। ततो॒ विष्व॒ङ् व्य᳖क्रामत्साशनानश॒नेऽअ॒भि ॥४ ॥,VedaMantra
+28,tri̱pādū̱rdhva udai̱tpuru̍ṣa̱ḥ pādo̎sye̱hābha̍va̱t puna̍ḥ. tato̱ viṣva̱ṅ vya᳖krāmatsāśanānaśa̱ne'a̱bhi ..4 ..,VedaMantraRomanIAST
+29,पुरुषो देवता,Devata
+30,puruṣo devatā,DevataRomanIAST
+31,नारायण ऋषिः,Rishi
+32,nārāyaṇa ṛṣiḥ,RishiRomanIAST
+33,Sakala Shakha,Recension
+34,6.52.9,MantraNumber
+35,4.8.8.2,AlternateMantraNumber
+36,उप॑ नः सू॒नवो॒ गिरः॑ शृ॒ण्वन्त्व॒मृत॑स्य॒ ये । सु॒मृ॒ळी॒का भ॑वन्तु नः ॥,VedaMantra
+37,upa̍ naḥ sū̱navo̱ gira̍ḥ śṛ̱ṇvantva̱mṛta̍sya̱ ye . su̱mṛ̱l̤ī̱kā bha̍vantu naḥ ..,VedaMantraRomanIAST
+38,उप॑ । नः॒ । सू॒नवः॑ । गिरः॑ । शृ॒ण्वन्तु॑ । अ॒मृत॑स्य । ये । सु॒ऽमृ॒ळी॒काः । भ॒व॒न्तु॒ । नः॒ ॥,Padapatha
+39,विश्वेदेवाः,Devata
+40,viśvedevāḥ,DevataRomanIAST
+41,ऋजिश्वाः,Rishi
+42,ṛjiśvāḥ,RishiRomanIAST
+43,निचृद्गायत्री,Chandas
+44,nicṛdgāyatrī,ChandasRomanIAST
+45,Shatapatha Brahmana of Madhyandina Shakha,Links
+46,"Kauthuma Shakha, Jaiminiya Shakha",Recension
+47,3.301.1,MantraNumber
+48,7.3.13.1,AlternateMantraNumber
+49,उ꣡प꣢ नः सू꣣न꣢वो꣣ गि꣡रः꣢ शृ꣣ण्व꣢न्त्व꣣मृ꣡त꣢स्य꣣ ये꣢ । सु꣣मृडीका꣡ भ꣢वन्तु नः ॥१५९५॥,VedaMantra
+50,u꣡pa꣢ naḥ sū꣣na꣢vo꣣ gi꣡raḥ꣢ śṛ꣣ṇva꣢ntva꣣mṛ꣡ta꣢sya꣣ ye꣢ . su꣣mṛḍīkā꣡ bha꣢vantu naḥ ..1595..,VedaMantraRomanIAST
+51,विश्वे देवाः,Devata
+52,viśve devāḥ,DevataRomanIAST
+53,ऋजिश्वा भारद्वाजः,Rishi
+54,ṛjiśvā bhāradvājaḥ,RishiRomanIAST
+55,गायत्री,Chandas
+56,gāyatrī,ChandasRomanIAST
+57,Madhyandina Shakha,Recension
+58,33.77,MantraNumber
+59,उप॑ नः सू॒नवो॒ गिरः॑ शृ॒ण्वन्त्व॒मृत॑स्य॒ ये। सु॒मृ॒डी॒का भ॑वन्तु नः ॥७७ ॥,VedaMantra
+60,upa̍ naḥ sū̱navo̱ gira̍ḥ śṛ̱ṇvantva̱mṛta̍sya̱ ye. su̱mṛ̱ḍī̱kā bha̍vantu naḥ ..77 ..,VedaMantraRomanIAST
+61,विश्वेदेवा देवताः,Devata
+62,viśvedevā devatāḥ,DevataRomanIAST
+63,सुहोत्र ऋषिः,Rishi
+64,suhotra ṛṣiḥ,RishiRomanIAST
+65,9.61.12,MantraNumber
+66,7.1.20.2,AlternateMantraNumber
+67,स न॒ इन्द्रा॑य॒ यज्य॑वे॒ वरु॑णाय म॒रुद्भ्यः॑ । व॒रि॒वो॒वित्परि॑ स्रव ॥,VedaMantra
+68,sa na̱ indrā̍ya̱ yajya̍ve̱ varu̍ṇāya ma̱rudbhya̍ḥ . va̱ri̱vo̱vitpari̍ srava ..,VedaMantraRomanIAST
+69,सः । नः॒ । इन्द्रा॑य । यज्य॑वे । वरु॑णाय । म॒रुत्ऽभ्यः॑ । व॒रि॒वः॒ऽवित् । परि॑ । स्र॒व॒ ॥,Padapatha
+70,पवमानः सोमः,Devata
+71,pavamānaḥ somaḥ,DevataRomanIAST
+72,अमहीयुः,Rishi
+73,amahīyuḥ,RishiRomanIAST
+74,Taittiriya Upanishad,Links
+75,"Ranayaniya Shakha, Jaiminiya Shakha",Recension
+76,1.60.7,MantraNumber
+77,6.3.1.7,AlternateMantraNumber
+78,स꣢ न꣣ इ꣡न्द्रा꣢य꣣ य꣡ज्य꣢वे꣣ व꣡रु꣢णाय म꣣रु꣡द्भ्यः꣢ । व꣣रिवोवि꣡त्परि꣢꣯स्रव ॥५९२॥,VedaMantra
+79,sa꣢ na꣣ i꣡ndrā꣢ya꣣ ya꣡jya꣢ve꣣ va꣡ru꣢ṇāya ma꣣ru꣡dbhyaḥ꣢ . va꣣rivovi꣡tpari꣢꣯srava ..592..,VedaMantraRomanIAST
+80,अमहीयुराङ्गिरसः,Rishi
+81,amahīyurāṅgirasaḥ,RishiRomanIAST
+82,26.17,MantraNumber
+83,स न॒ऽइन्द्रा॑य॒ यज्य॑वे॒ वरु॑णाय म॒रुद्भ्यः॑। व॒रि॒वो॒वित्परि॑ स्रव ॥१७ ॥,VedaMantra
+84,sa na̱'indrā̍ya̱ yajya̍ve̱ varu̍ṇāya ma̱rudbhya̍ḥ. va̱ri̱vo̱vitpari̍ srava ..17 ..,VedaMantraRomanIAST
+85,इन्द्रो देवता,Devata
+86,indro devatā,DevataRomanIAST
+87,महीयव ऋषिः,Rishi
+88,mahīyava ṛṣiḥ,RishiRomanIAST
+89,9.66.19,MantraNumber
+90,7.2.10.4,AlternateMantraNumber
+91,अग्न॒ आयूं॑षि पवस॒ आ सु॒वोर्ज॒मिषं॑ च नः । आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥,VedaMantra
+92,agna̱ āyū̍ṃṣi pavasa̱ ā su̱vorja̱miṣa̍ṃ ca naḥ . ā̱re bā̍dhasva du̱cchunā̍m ..,VedaMantraRomanIAST
+93,अग्ने॑ । आयूं॑षि । प॒व॒से॒ । आ । सु॒व॒ । ऊर्ज॑म् । इष॑म् । च॒ । नः॒ । आ॒रे । बा॒ध॒स्व॒ । दु॒च्छुना॑म् ॥,Padapatha
+94,अग्निः,Devata
+95,agniḥ,DevataRomanIAST
+96,शतं वैखानसाः,Rishi
+97,śataṃ vaikhānasāḥ,RishiRomanIAST
+98,"Taittiriya Aranyaka, Taittiriya Brahmana",Links
+99,"Ranayaniya Shakha, Kauthuma Shakha, Jaiminiya Shakha",Recension
+100,1.64.1,MantraNumber
+101,6.3.5.1,AlternateMantraNumber
+102,अ꣢ग्न꣣ आ꣡यू꣢ꣳषि पवस꣣ आ꣢सु꣣वो꣢र्ज꣣मि꣡षं꣢ च नः । आ꣣रे꣡ बा꣢धस्व दु꣣च्छु꣡ना꣢म् ॥६२७॥,VedaMantra
+103,a꣢gna꣣ ā꣡yū꣢gͫṣi pavasa꣣ ā꣢su꣣vo꣢rja꣣mi꣡ṣaṃ꣢ ca naḥ . ā꣣re꣡ bā꣢dhasva du꣣cchu꣡nā꣢m ..627..,VedaMantraRomanIAST
+104,अग्निः पवमानः,Devata
+105,agniḥ pavamānaḥ,DevataRomanIAST
+106,Kanva Shakha,Recension
+107,19.38,MantraNumber
+108,अग्न॒ऽआयू॑षि पवस॒ऽआ सु॒वोर्ज॒मिषं॑ च नः। आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥३८ ॥,VedaMantra
+109,agna̱'āyū̍ṣi pavasa̱'ā su̱vorja̱miṣa̍ṃ ca naḥ. ā̱re bā̍dhasva du̱cchunā̍m ..38 ..,VedaMantraRomanIAST
+110,वैखानस ऋषिः,Rishi
+111,vaikhānasa ṛṣiḥ,RishiRomanIAST
+112,Baskala Shakha,Recension
+113,6.70.1,MantraNumber
+114,5.1.14.1,AlternateMantraNumber
+115,घृ॒तव॑ती॒ भुव॑नानामभि॒श्रियो॒र्वी पृ॒थ्वी म॑धु॒दुघे॑ सु॒पेश॑सा । द्यावा॑पृथि॒वी वरु॑णस्य॒ धर्म॑णा॒ विष्क॑भिते अ॒जरे॒ भूरि॑रेतसा ॥,VedaMantra
+116,ghṛ̱tava̍tī̱ bhuva̍nānāmabhi̱śriyo̱rvī pṛ̱thvī ma̍dhu̱dughe̍ su̱peśa̍sā . dyāvā̍pṛthi̱vī varu̍ṇasya̱ dharma̍ṇā̱ viṣka̍bhite a̱jare̱ bhūri̍retasā ..,VedaMantraRomanIAST
+117,घृ॒तव॑ती॒ इति॑ घृ॒तऽव॑ती । भुव॑नानाम् । अ॒भि॒ऽश्रिया॑ । उ॒र्वी । पृ॒थ्वी इति॑ । म॒धु॒दुघे॒ इति॑ म॒धु॒ऽदुघे॑ । सु॒ऽपेश॑सा । द्यावा॑पृथि॒वी इति॑ । वरु॑णस्य । धर्म॑णा । विस्क॑भिते॒ इति॒ विऽस्क॑भिते । अ॒जरे॒ इति॑ । भूरि॑ऽरेतसा ॥,Padapatha
+118,द्यावापृथिव्यौ,Devata
+119,dyāvāpṛthivyau,DevataRomanIAST
+120,भरद्वाजो बार्हस्पत्यः,Rishi
+121,bharadvājo bārhaspatyaḥ,RishiRomanIAST
+122,निचृज्जगती,Chandas
+123,nicṛjjagatī,ChandasRomanIAST
+124,1.39.9,MantraNumber
+125,4.2.4.9,AlternateMantraNumber
+126,घृ꣣त꣡व꣢ती꣣ भु꣡व꣢नानामभि꣣श्रि꣢यो꣣र्वी꣢ पृ꣣थ्वी꣡ म꣢धु꣣दु꣡घे꣢ सु꣣पे꣡श꣢सा । द्या꣡वा꣢पृथि꣣वी꣡ वरु꣢꣯णस्य꣣ ध꣡र्म꣢णा꣣ वि꣡ष्क꣢भिते अ꣣ज꣢रे꣣ भू꣡रि꣢रेतसा ॥३७८॥,VedaMantra
+127,ghṛ꣣ta꣡va꣢tī꣣ bhu꣡va꣢nānāmabhi꣣śri꣢yo꣣rvī꣢ pṛ꣣thvī꣡ ma꣢dhu꣣du꣡ghe꣢ su꣣pe꣡śa꣢sā . dyā꣡vā꣢pṛthi꣣vī꣡ varu꣢꣯ṇasya꣣ dha꣡rma꣢ṇā꣣ vi꣡ṣka꣢bhite a꣣ja꣢re꣣ bhū꣡ri꣢retasā ..378..,VedaMantraRomanIAST
+128,द्यावापृथिवी,Devata
+129,dyāvāpṛthivī,DevataRomanIAST
+130,जगती,Chandas
+131,jagatī,ChandasRomanIAST
+132,34.45,MantraNumber
+133,घृ॒तव॑ती॒ भुव॑नानामभि॒श्रियो॒र्वी पृ॒थ्वी म॑धु॒दुघे॑ सु॒पेश॑सा। द्यावा॑पृथि॒वी वरु॑णस्य॒ धर्म॑णा॒ विष्क॑भितेऽअ॒जरे॒ भूरि॑रतेसा ॥४५ ॥,VedaMantra
+134,ghṛ̱tava̍tī̱ bhuva̍nānāmabhi̱śriyo̱rvī pṛ̱thvī ma̍dhu̱dughe̍ su̱peśa̍sā. dyāvā̍pṛthi̱vī varu̍ṇasya̱ dharma̍ṇā̱ viṣka̍bhite'a̱jare̱ bhūri̍ratesā ..45 ..,VedaMantraRomanIAST
+135,द्यावापृथिव्यौ देवते,Devata
+136,dyāvāpṛthivyau devate,DevataRomanIAST
+137,भरद्वाज ऋषिः,Rishi
+138,bharadvāja ṛṣiḥ,RishiRomanIAST
+139,8.88.1,MantraNumber
+140,6.6.11.1,AlternateMantraNumber
+141,तं वो॑ द॒स्ममृ॑ती॒षहं॒ वसो॑र्मन्दा॒नमन्ध॑सः । अ॒भि व॒त्सं न स्वस॑रेषु धे॒नव॒ इन्द्रं॑ गी॒र्भिर्न॑वामहे ॥,VedaMantra
+142,taṃ vo̍ da̱smamṛ̍tī̱ṣaha̱ṃ vaso̍rmandā̱namandha̍saḥ . a̱bhi va̱tsaṃ na svasa̍reṣu dhe̱nava̱ indra̍ṃ gī̱rbhirna̍vāmahe ..,VedaMantraRomanIAST
+143,तम् । वः॒ । द॒स्मम् । ऋ॒ति॒ऽसह॑म् । वसोः॑ । म॒न्दा॒नम् । अन्ध॑सः । अ॒भि । व॒त्सम् । न । स्वस॑रेषु । धे॒नवः॑ । इन्द्र॑म् । गीः॒ऽभिः । न॒वा॒म॒हे॒ ॥,Padapatha
+144,इन्द्रः,Devata
+145,indraḥ,DevataRomanIAST
+146,नोधा,Rishi
+147,nodhā,RishiRomanIAST
+148,बृहती,Chandas
+149,bṛhatī,ChandasRomanIAST
+150,1.25.4,MantraNumber
+151,3.1.5.4,AlternateMantraNumber
+152,तं꣡ वो꣢ द꣣स्म꣡मृ꣢꣫ती꣣ष꣢हं꣣ व꣡सो꣢र्मन्दा꣣न꣡मन्ध꣢꣯सः । अ꣣भि꣢ व꣣त्सं꣡ न स्वस꣢꣯रेषु धे꣣न꣢व꣣ इ꣡न्द्रं꣢ गी꣣र्भि꣡र्न꣢वामहे ॥२३६॥,VedaMantra
+153,taṃ꣡ vo꣢ da꣣sma꣡mṛ꣢꣫tī꣣ṣa꣢haṃ꣣ va꣡so꣢rmandā꣣na꣡mandha꣢꣯saḥ . a꣣bhi꣢ va꣣tsaṃ꣡ na svasa꣢꣯reṣu dhe꣣na꣢va꣣ i꣡ndraṃ꣢ gī꣣rbhi꣡rna꣢vāmahe ..236..,VedaMantraRomanIAST
+154,नोधा गौतमः,Rishi
+155,nodhā gautamaḥ,RishiRomanIAST
+156,26.11,MantraNumber
+157,तं वो॑ द॒स्ममृ॑ती॒षहं॒ वसो॑र्मन्दा॒नमन्ध॑सः। अ॒भि व॒त्सं न स्वस॑रेषु धे॒नव॒ऽइन्द्रं॑ गी॒र्भिर्न॑वामहे ॥११ ॥,VedaMantra
+158,taṃ vo̍ da̱smamṛ̍tī̱ṣaha̱ṃ vaso̍rmandā̱namandha̍saḥ. a̱bhi va̱tsaṃ na svasa̍reṣu dhe̱nava̱'indra̍ṃ gī̱rbhirna̍vāmahe ..11 ..,VedaMantraRomanIAST
+159,अग्निर्देवता,Devata
+160,agnirdevatā,DevataRomanIAST
+161,नोधा गोतम ऋषिः,Rishi
+162,nodhā gotama ṛṣiḥ,RishiRomanIAST
+163,1.3.5,MantraNumber
+164,1.1.5.5,AlternateMantraNumber
+165,इन्द्रा या॑हि धि॒येषि॒तो विप्र॑जूतः सु॒ताव॑तः । उप॒ ब्रह्मा॑णि वा॒घतः॑ ॥,VedaMantra
+166,indrā yā̍hi dhi̱yeṣi̱to vipra̍jūtaḥ su̱tāva̍taḥ . upa̱ brahmā̍ṇi vā̱ghata̍ḥ ..,VedaMantraRomanIAST
+167,इन्द्र॑ । आ । या॒हि॒ । धि॒या । इ॒षि॒तः । विप्र॑ऽजूतः । सु॒तऽव॑तः । उप॑ । ब्रह्मा॑णि । वा॒घतः॑ ॥,Padapatha
+168,मधुच्छन्दाः वैश्वामित्रः,Rishi
+169,madhucchandāḥ vaiśvāmitraḥ,RishiRomanIAST
+170,3.157.2,MantraNumber
+171,4.2.5.2,AlternateMantraNumber
+172,इ꣡न्द्रा या꣢꣯हि धि꣣ये꣢षि꣣तो꣡ विप्र꣢꣯जूतः सु꣣ता꣡व꣢तः । उ꣢प꣣ ब्र꣡ह्मा꣢णि वा꣣घ꣡तः꣢ ॥११४७॥,VedaMantra
+173,i꣡ndrā yā꣢꣯hi dhi꣣ye꣢ṣi꣣to꣡ vipra꣢꣯jūtaḥ su꣣tā꣡va꣢taḥ . u꣢pa꣣ bra꣡hmā꣢ṇi vā꣣gha꣡taḥ꣢ ..1147..,VedaMantraRomanIAST
+174,मधुच्छन्दा वैश्वामित्रः,Rishi
+175,madhucchandā vaiśvāmitraḥ,RishiRomanIAST
+176,20.88,MantraNumber
+177,इन्द्राया॑हि धि॒येषि॒तो विप्र॑जूतः सु॒ताव॑तः। उप॒ ब्रह्मा॑णि वा॒घतः॑ ॥८८ ॥,VedaMantra
+178,indrāyā̍hi dhi̱yeṣi̱to vipra̍jūtaḥ su̱tāva̍taḥ. upa̱ brahmā̍ṇi vā̱ghata̍ḥ ..88 ..,VedaMantraRomanIAST
+179,मधुच्छन्दा ऋषिः,Rishi
+180,madhucchandā ṛṣiḥ,RishiRomanIAST
+181,8.51.7,MantraNumber
+182,6.4.19.2,AlternateMantraNumber
+183,क॒दा च॒न स्त॒रीर॑सि॒ नेन्द्र॑ सश्चसि दा॒शुषे॑ । उपो॒पेन्नु म॑घव॒न्भूय॒ इन्नु ते॒ दानं॑ दे॒वस्य॑ पृच्यते ॥,VedaMantra
+184,ka̱dā ca̱na sta̱rīra̍si̱ nendra̍ saścasi dā̱śuṣe̍ . upo̱pennu ma̍ghava̱nbhūya̱ innu te̱ dāna̍ṃ de̱vasya̍ pṛcyate ..,VedaMantraRomanIAST
+185,क॒दा । च॒न । स्त॒रीः । अ॒सि॒ । न । इ॒न्द्र॒ । स॒श्च॒सि॒ । दा॒शुषे॑ । उप॑ऽउप । इत् । नु । म॒घ॒ऽव॒न् । भूयः॑ । इत् । नु । ते॒ । दान॑म् । दे॒वस्य॑ । पृ॒च्य॒ते॒ ॥,Padapatha
+186,श्रुष्टिगुः काण्वः,Rishi
+187,śruṣṭiguḥ kāṇvaḥ,RishiRomanIAST
+188,"Aitareya Brahmana, Shatapatha Brahmana",Links
+189,"Jaiminiya Shakha, Ranayaniya Shakha",Recension
+190,1.31.8,MantraNumber
+191,4.1.1.8,AlternateMantraNumber
+192,क꣣दा꣢ च꣣न꣢ स्त꣣री꣡र꣢सि꣣ ने꣡न्द्र꣢ सश्चसि दा꣣शु꣡षे꣢ । उ꣢पो꣣पे꣡न्नु म꣢꣯घ꣣वन्भू꣢य꣣ इ꣢꣯न्नु ते꣣ दा꣡नं꣢ दे꣣व꣡स्य꣢ पृच्यते ॥३००॥,VedaMantra
+193,ka꣣dā꣢ ca꣣na꣢ sta꣣rī꣡ra꣢si꣣ ne꣡ndra꣢ saścasi dā꣣śu꣡ṣe꣢ . u꣢po꣣pe꣡nnu ma꣢꣯gha꣣vanbhū꣢ya꣣ i꣢꣯nnu te꣣ dā꣡naṃ꣢ de꣣va꣡sya꣢ pṛcyate ..300..,VedaMantraRomanIAST
+194,3.34,MantraNumber
+195,क॒दा च॒न स्त॒रीर॑सि॒ नेन्द्र॑ सश्चसि दा॒शुषे॑। उपो॒पेन्नु म॑घव॒न् भूय॒ऽइन्नु ते॒ दानं॑ दे॒वस्य॑ पृच्यते ॥३४॥,VedaMantra
+196,ka̱dā ca̱na sta̱rīra̍si̱ nendra̍ saścasi dā̱śuṣe̍. upo̱pennu ma̍ghava̱n bhūya̱'innu te̱ dāna̍ṃ de̱vasya̍ pṛcyate ..34..,VedaMantraRomanIAST
+197,पथ्या बृहती,Chandas
+198,pathyā bṛhatī,ChandasRomanIAST
